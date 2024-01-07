@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Travell_App</string>
+    <string name="app_name">Travel_App</string>
+    <string name="travel_photos_app">Travel Photos App!</string>
 </resources>
